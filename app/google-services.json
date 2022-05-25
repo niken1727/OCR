@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620741316016",
+    "project_id": "canvasocr-cc263",
+    "storage_bucket": "canvasocr-cc263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620741316016:android:c022d443193629a3d6da75",
+        "android_client_info": {
+          "package_name": "com.niken.canvasocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620741316016-1fc08edr4f60p1gthaemgobm71ap32o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP5E6SyPq11YNmyCUZ9cNTACqulEcfkU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620741316016-1fc08edr4f60p1gthaemgobm71ap32o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
